@@ -1,8 +1,12 @@
 # Price Drop Watcher
 
-**Course:** BCA  
-**Project ID:** L-31 Price Drop Watcher 
-**Student Name:** Shreyansh Gupta
+## Project Guide
 
-## Project Description
-Price Drop Watcher is a project that helps users track product prices and get notified when prices decrease.
+This project was completed under the guidance of  
+**Dr. Anjum Y. Mansuri**, Assistant Professor, Computer Applications,  
+LJ Institute of Computer Applications, LJ University, Ahmedabad.
+
+GitHub: [@anjum-mansuri](https://github.com/anjum-mansuri)
+
+**Course:** OS Linux Lab 260120510  
+**Project ID:** L31
